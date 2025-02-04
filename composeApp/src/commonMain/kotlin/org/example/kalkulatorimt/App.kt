@@ -99,7 +99,7 @@ fun App() {
                         },
                         content = { Text(text = "Lihat IMT") }
                     )
-                    Text(text = "$hasil,Kategori: $kategori")
+                    Text(text = "Hasil : $hasil Maka Kategori adalah $kategori")
                 }
             )
         }
